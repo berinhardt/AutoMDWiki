@@ -1,4 +1,5 @@
 wiki/
+one-shot/
 index.md
 navigation.md
 config.json
@@ -6,3 +7,4 @@ node_modules
 package-lock.json
 index.html
 MDwiki.min.js
+baseConfig.json

@@ -3,7 +3,7 @@
     "http-server": "^14.1.1"
   },
   "scripts": {
-	  "wiki": "node_modules/http-server/bin/http-server",
-    "build": "node rebuild.js"
+    "prewiki": "node rebuild.js",
+    "wiki": "http-server"
   }
 }
